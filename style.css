@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(yellow,green,cyan,blue);
+    color: rgb(255, 8, 0);
+    font-weight: bold;
+}
+#camera{
+    border:2px dashed rgb(0, 0, 0); 
+    width: 350px ; 
+    height:350px;
+}
